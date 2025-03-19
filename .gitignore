@@ -1,0 +1,5 @@
+.venv/
+*.csv
+account.txt
+Temp/
+faiss_index/
